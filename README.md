@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Leonardo Farias
 
-- 🔭  Estudando desenvolvimento back-end em Java.
+- 🔭  Estudando programação (Lógica de Programação, Programação Orienta a Objetos, Banco de dados relacional, SQL SERVER 2016, JAVA).
 
 
  <div>
@@ -8,6 +8,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leonardofarias28&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardofarias28&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Leo-JAVA" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg">
