@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Leonardo Farias
 
-- 🔭 Hoje eu trabalho com monitoramento.
-- 🌱 Estudando desenvolvimento back-end em Java.
+- 🔭  Estudando desenvolvimento back-end em Java.
 
 
  <div>
