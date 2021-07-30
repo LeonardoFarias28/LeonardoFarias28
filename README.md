@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Leonardo Farias
 
-- 🔭  Estudando programação (Lógica de Programação, Programação Orienta a Objetos, Banco de dados relacional, SQL SERVER 2016, JAVA).
+- 🔭  Um programador em formação pela Udemy, estudando (Lógica de Programação, Programação Orienta a Objetos, Banco de dados relacional, SQL SERVER 2016, JAVA).
 
 
  <div>
