@@ -1,4 +1,4 @@
-### Olá! Eu sou o Leonardo Farias
+###  Leonardo da Silva Farias - Desenvolvedor Java Júnior
 
 - 🔭  Um programador em formação pela Udemy, estudando (Lógica de Programação, Programação Orienta a Objetos, Banco de dados relacional, SQL SERVER 2016, JAVA).
 
