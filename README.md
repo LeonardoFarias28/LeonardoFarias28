@@ -1,8 +1,18 @@
 ###  Leonardo da Silva Farias - Desenvolvedor Java Júnior
 
-- 🔭  Um programador em formação pela Udemy, estudando (Lógica de Programação, Programação Orienta a Objetos, Banco de dados relacional, SQL SERVER 2016, JAVA).
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas.
+- 🔭  Um programador em formação pela Udemy, estudando (Java, Lógica de Programação, Programação Orientada a Objetos, Spring Boot, SQL SERVER e Banco de Dados Relacional).
+- 🖥️ Atualmente trabalho como Analista de Monitoramento Júnior pela Indra. 
 
-
+<div style="display: inline_block"><br>
+  <img align="center" alt="Leo-JAVA" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg">
+  <img align="center" alt="Leo-SPRING" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-plain-wordmark.svg">
+  <img align="center" alt="Leo-GIT" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg">
+  <img align="center" alt="Leo-GITHUB" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
+  <img align="center" alt="Leo-SQL" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+</div>
+<br>
+<br>
  <div>
   <a href="https://https://github.com/LeonardoFarias28">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leonardofarias28&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -10,15 +20,6 @@
 </div>
 
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Leo-JAVA" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg">
-  <img align="center" alt="Leo-SPRING" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-plain-wordmark.svg">
-  <img align="center" alt="Leo-GIT" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg">
-  <img align="center" alt="Leo-GITHUB" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
-  <img align="center" alt="Leo-SQL" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-  
-
-</div>
   
  ##
   
