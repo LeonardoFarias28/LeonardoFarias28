@@ -1,4 +1,5 @@
-###  Leonardo da Silva Farias - Desenvolvedor Java Júnior
+###  Leonardo da Silva Farias 
+### OBJETIVO: Desenvolvedor Java Júnior
 
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas.
 - 🔭  Um programador em formação pela Udemy, estudando (Java, Lógica de Programação, Programação Orientada a Objetos, Spring Boot, SQL SERVER e Banco de Dados Relacional).
@@ -19,9 +20,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardofarias28&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-
-  
- ##
   
 <div>  
   <a href = "mailto:leonardosfariaas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
