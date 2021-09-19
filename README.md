@@ -2,7 +2,7 @@
 ### OBJETIVO: Desenvolvedor Java Júnior
 
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas.
-- 🔭  Um programador em formação pela Udemy, estudando (Java, Lógica de Programação, Programação Orientada a Objetos, Spring Boot, SQL SERVER e Banco de Dados Relacional).
+- 🔭  Um programador em formação pela Udemy, estudando (Java, Lógica de Programação, Programação Orientada a Objetos, Estrutua de dados, expressões lambdas, Spring Boot, SQL SERVER e Banco de Dados Relacional).
 - 🖥️ Atualmente trabalho como Analista de Monitoramento Júnior pela Indra. 
 
 <div style="display: inline_block"><br>
