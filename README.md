@@ -6,11 +6,7 @@
 - 🖥️ Atualmente trabalho como Analista de Monitoramento Júnior pela Indra. 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Leo-JAVA" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg">
-  <img align="center" alt="Leo-SPRING" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-plain-wordmark.svg">
-  <img align="center" alt="Leo-GIT" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg">
-  <img align="center" alt="Leo-GITHUB" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
-  <img align="center" alt="Leo-SQL" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+
 </div>
 <br>
 <br>
