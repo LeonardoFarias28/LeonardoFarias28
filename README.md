@@ -1,8 +1,8 @@
 ###  Leonardo da Silva Farias 
-### OBJETIVO: Desenvolvedor SalesForce
+### OBJETIVO: Analista Desenvoledor Java
 
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas.
-- 🔭  Um programador em formação pela TrailHead, estudando (SalesForce, Noções básicas de desenvolvimento da plataforma, Modelagem de dados e Gerenciamento de dados) entre outros ensinamentos na trila Desenvolvedor iniciante.
+- 🔭  Um programador em formação, atualmente estou estudando: (Java, Lógica de Programação, Programação Orientada a Objetos, Estrutura de dados: Vetores, Arrays, Listas, Pilhas e Filas, expressões lambdas, SQL SERVER e MySQL Server).
 - 🖥️ Atualmente trabalho como Analista de Monitoramento Júnior pela Indra. 
 
 <div style="display: inline_block"><br>
